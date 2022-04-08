@@ -1,0 +1,2 @@
+# Cache-Simulator
+A c++ program that accepts a text file filled with integers. These integers represent memory addresses that will go into a mimiced cache. The program will calculate if each memory address was in the cache or not, and write this data to an output text file. The arguments for running the program are: num_entries associativity inputFile. File I/O example, Cmd line example, and Cache class prototypes were provided as skeleton code by Dr. Qasem.
